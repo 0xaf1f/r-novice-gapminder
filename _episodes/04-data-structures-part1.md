@@ -259,15 +259,7 @@ No matter how
 complicated our analyses become, all data in R is interpreted as one of these
 basic data types. This strictness has some really important consequences.
 
-A user has added details of another cat. This information is in the file
-`data/feline-data_v2.csv`.
-
-
-
-~~~
-file.show("data/feline-data_v2.csv")
-~~~
-{: .language-r}
+Now create `data/feline-data_v2.csv` with the following contents using a text editor (Nano), or within RStudio with the File -> New File -> Text File menu item:
 
 
 ~~~
